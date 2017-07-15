@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prueba33", "prueba33\prueba33.csproj", "{C9CBE099-5495-4DCF-8C7B-5E0F9D4D37AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9CBE099-5495-4DCF-8C7B-5E0F9D4D37AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9CBE099-5495-4DCF-8C7B-5E0F9D4D37AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9CBE099-5495-4DCF-8C7B-5E0F9D4D37AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9CBE099-5495-4DCF-8C7B-5E0F9D4D37AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://hp:8080/tfs/proyectos
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = prueba33\\prueba33.csproj
+		SccProjectName1 = prueba33
+		SccLocalPath1 = prueba33
+	EndGlobalSection
+EndGlobal

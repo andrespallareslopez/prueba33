@@ -1,0 +1,215 @@
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\prueba33.dll.config
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\prueba33.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\prueba33.pdb
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\System.Net.Http.Formatting.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\System.Web.Http.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\System.Web.Http.Owin.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\System.Web.Http.WebHost.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\System.Web.Http.Owin.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\System.Net.Http.Formatting.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\System.Web.Http.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\System.Web.Http.WebHost.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\obj\Debug\prueba33.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\obj\Debug\prueba33.pdb
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\prueba33\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Web.Common.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Web.WebApi.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\WebActivatorEx.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Web.Common.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Web.WebApi.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\DotNetZip.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\prueba33\bin\DotNetZip.xml
+C:\Users\andres\Documents\app\prueba33\bin\ApplicationInsights.config
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\csc.exe
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\vbc.exe
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\VBCSCompiler.exe
+C:\Users\andres\Documents\app\prueba33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andres\Documents\app\prueba33\bin\prueba33.dll.config
+C:\Users\andres\Documents\app\prueba33\bin\prueba33.dll
+C:\Users\andres\Documents\app\prueba33\bin\prueba33.pdb
+C:\Users\andres\Documents\app\prueba33\bin\DotNetZip.dll
+C:\Users\andres\Documents\app\prueba33\bin\EntityFramework.dll
+C:\Users\andres\Documents\app\prueba33\bin\EntityFramework.SqlServer.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.Web.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.Owin.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\andres\Documents\app\prueba33\bin\Newtonsoft.Json.dll
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.dll
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Web.Common.dll
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Web.WebApi.dll
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\andres\Documents\app\prueba33\bin\Owin.dll
+C:\Users\andres\Documents\app\prueba33\bin\System.Net.Http.Formatting.dll
+C:\Users\andres\Documents\app\prueba33\bin\System.Web.Http.dll
+C:\Users\andres\Documents\app\prueba33\bin\System.Web.Http.Owin.dll
+C:\Users\andres\Documents\app\prueba33\bin\System.Web.Http.WebHost.dll
+C:\Users\andres\Documents\app\prueba33\bin\WebActivatorEx.dll
+C:\Users\andres\Documents\app\prueba33\bin\DotNetZip.xml
+C:\Users\andres\Documents\app\prueba33\bin\EntityFramework.xml
+C:\Users\andres\Documents\app\prueba33\bin\EntityFramework.SqlServer.xml
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.Web.xml
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.Owin.xml
+C:\Users\andres\Documents\app\prueba33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.xml
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Web.Common.xml
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Web.WebApi.xml
+C:\Users\andres\Documents\app\prueba33\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\andres\Documents\app\prueba33\bin\System.Web.Http.Owin.xml
+C:\Users\andres\Documents\app\prueba33\bin\Newtonsoft.Json.xml
+C:\Users\andres\Documents\app\prueba33\bin\System.Net.Http.Formatting.xml
+C:\Users\andres\Documents\app\prueba33\bin\System.Web.Http.xml
+C:\Users\andres\Documents\app\prueba33\bin\System.Web.Http.WebHost.xml
+C:\Users\andres\Documents\app\prueba33\obj\Debug\prueba33.dll
+C:\Users\andres\Documents\app\prueba33\obj\Debug\prueba33.pdb
+C:\Users\andres\Documents\app\prueba33\obj\Debug\prueba33.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\app\prueba33\prueba33\bin\ApplicationInsights.config
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\csc.exe
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\vbc.exe
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\app\prueba33\prueba33\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\app\prueba33\prueba33\bin\prueba33.dll.config
+C:\Users\user\Documents\app\prueba33\prueba33\bin\prueba33.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\prueba33.pdb
+C:\Users\user\Documents\app\prueba33\prueba33\bin\DotNetZip.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\EntityFramework.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.Web.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.Owin.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Extensions.ContextPreservation.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Extensions.NamedScope.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Web.Common.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Web.WebApi.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Web.WebApi.OwinHost.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Owin.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Web.Http.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Web.Http.Owin.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\WebActivatorEx.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\DotNetZip.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\EntityFramework.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.Web.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.Owin.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Extensions.ContextPreservation.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Extensions.NamedScope.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Web.Common.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Web.WebApi.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Ninject.Web.WebApi.OwinHost.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Web.Http.Owin.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Web.Http.xml
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Documents\app\prueba33\prueba33\obj\Debug\prueba33.dll
+C:\Users\user\Documents\app\prueba33\prueba33\obj\Debug\prueba33.pdb
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Net.Http.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Documents\app\prueba33\prueba33\bin\System.Diagnostics.DiagnosticSource.xml
